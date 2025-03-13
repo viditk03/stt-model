@@ -1,0 +1,7 @@
+streamlit
+nltk
+transformers
+torch
+pyaudio
+SpeechRecognition
+numpy
