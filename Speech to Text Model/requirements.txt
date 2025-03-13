@@ -5,3 +5,4 @@ torch
 pyaudio
 SpeechRecognition
 numpy
+pip install --upgrade pip
